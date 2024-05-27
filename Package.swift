@@ -11,7 +11,7 @@ let package = Package(
     ],
     dependencies: 
     [
-        .package(url: "https://github.com/kelvin13/swift-png", .upToNextMinor(from: "4.0.1"))
+        .package(url: "https://github.com/kelvin13/swift-png", .upToNextMinor(from: "4.4.1"))
     ],
     targets: 
     [
